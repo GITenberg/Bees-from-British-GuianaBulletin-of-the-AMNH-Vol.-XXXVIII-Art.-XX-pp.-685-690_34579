@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '37095'
     url: http://www.gutenberg.org/2009/agents/37095
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34579#Bees-from-British-GuianaBulletin-of-the-AMNH-Vol.-XXXVIII-Art.-XX-pp.-685-690
 gutenberg_bookshelf:
 - Animals-Wild-Insects
 - Animal
