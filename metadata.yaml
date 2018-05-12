@@ -1,0 +1,35 @@
+_repo: Bees-from-British-GuianaBulletin-of-the-AMNH-Vol.-XXXVIII-Art.-XX-pp.-685-690_34579
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cockerell, Theodore D. A. (Theodore Dru Alison)
+    aliases:
+    - Cockerell, T. D. A.
+    - Cockerell, Theodore Dru Alison
+    birthdate: 1866
+    deathdate: 1948
+    gutenberg_agent_id: '37095'
+    url: http://www.gutenberg.org/2009/agents/37095
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Insects
+- Animal
+gutenberg_issued: '2010-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34579'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Insects -- Guyana -- Bartica Region -- Classification'
+- !lcc 'QH'
+- !lcsh 'Bees -- Guyana -- Bartica Region -- Classification'
+title: 'Bees from British Guiana
+
+  Bulletin of the AMNH, Vol. XXXVIII, Art. XX, pp. 685-690'
+url: http://www.gutenberg.org/ebooks/34579
